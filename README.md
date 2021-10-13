@@ -1,4 +1,4 @@
-# To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors (ILLUME)
+# To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors
 
 Adaptive object detection remains challenging due to visual diversity in background scenes and intricate combinations of objects. Motivated by structural importance, we aim to attend prominent instance-specific regions, overcoming the feature misalignment issue. 
 
