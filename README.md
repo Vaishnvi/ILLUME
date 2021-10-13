@@ -33,7 +33,7 @@ cd lib
 sh make.sh (add -gencode arch=compute_70,code=sm_70" # added for GTX10XX)
 ```
 
-- Note to set number of classes = 20 in lib/datasets/water.py
+- Notes before running : This training code is setup to be ran on 4 GTX 1080, 11 GB GPUs. You may have to make some adjustments if you do not have this hardware available.
 - Tensorboard
 `tensorboard --logdir='your/path/here'`
 
