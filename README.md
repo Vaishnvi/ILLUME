@@ -6,4 +6,6 @@ We propose a novel resIduaL seLf-attentive featUre alignMEnt ( ILLUME ) method f
 
 Our approach significantly reduces the domain distance with the improved feature alignment of the instances.
 
+![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
+
 
