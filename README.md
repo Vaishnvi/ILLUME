@@ -81,18 +81,18 @@ Download them and write the path in __C.VGG_PATH and __C.RESNET_PATH at lib/mode
 ## Train
 - Cityscapes --> Foggy_cityscapes
 ```
-python trainval_net_MEAA.py --cuda --net vgg16 --dataset cityscape --dataset_t foggy_cityscape
+python trainval_net_ILLUME.py --cuda --net vgg16 --dataset cityscape --dataset_t foggy_cityscape
 ```
 ### use tensorboard
 ```
-python trainval_net_MEAA.py --cuda --net vgg16 --dataset cityscape --dataset_t foggy_cityscape --use_tfb
+python trainval_net_ILLUME.py --cuda --net vgg16 --dataset cityscape --dataset_t foggy_cityscape --use_tfb
 ```
 --use_tfb will enable tensorboard to record training results
 
 ## Test
 - Cityscapes --> Foggy_cityscapes
 ```
-python test_net_MEAA.py --cuda --net vgg16 --dataset foggy_cityscape --load_name models/vgg16/cityscape/*.pth
+python test_net_ILLUME.py --cuda --net vgg16 --dataset foggy_cityscape --load_name models/vgg16/cityscape/*.pth
 ```
 
 
