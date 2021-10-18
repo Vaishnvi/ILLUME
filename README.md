@@ -33,7 +33,7 @@ cd lib
 sh make.sh (add -gencode arch=compute_70,code=sm_70" # added for GTX10XX)
 ```
 
-- Notes before running : This training code is setup to be ran on 4 - GTX 1080 GPUs (11 GB). You may have to make some adjustments if you do not have this hardware available.
+- Notes before running : This training code is setup to be ran on 16 GB GPU. You may have to make some adjustments if you do not have this hardware available.
 - Tensorboard
 `tensorboard --logdir='your/path/here'`
 
