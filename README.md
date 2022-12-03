@@ -2,16 +2,7 @@
 
 ## To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors.
 
-###  Winter Conference on Applications of Computer Vision (WACV) 2022.
-
-[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf) / [Talk](https://youtu.be/sbUWeQJ3lys) / [Poster](https://docs.google.com/presentation/d/1S0Ei25aynJETC15JXNUsN_vqxQG_izMR4h-G5N1Qu1w/edit?usp=sharing) / [Supplementary](https://www.google.com/url?q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FWACV2022%2Fsupplemental%2FKhindkar_To_Miss-Attend_Is_WACV_2022_supplemental.pdf&sa=D&sntz=1&usg=AOvVaw2s5mbu0QqXXpS6n0-ao8Qf)
-
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-bdd100k-to)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-bdd100k-to?p=to-miss-attend-is-to-misalign-residual-self)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=to-miss-attend-is-to-misalign-residual-self)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-pascal-voc)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-pascal-voc?p=to-miss-attend-is-to-misalign-residual-self)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-sim10k-to-3)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-sim10k-to-3?p=to-miss-attend-is-to-misalign-residual-self)
-
+![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
 
 Adaptive object detection remains challenging due to visual diversity in background scenes and intricate combinations of objects. Motivated by structural importance, we aim to attend prominent instance-specific regions, overcoming the feature misalignment issue. 
 
@@ -19,7 +10,15 @@ We propose a novel resIduaL seLf-attentive featUre alignMEnt ( ILLUME ) method f
 
 Our approach significantly reduces the domain distance with the improved feature alignment of the instances.
 
-![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
+
+###  Winter Conference on Applications of Computer Vision (WACV) 2022.
+
+[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf) / [Talk](https://youtu.be/sbUWeQJ3lys) / [Poster](https://docs.google.com/presentation/d/1S0Ei25aynJETC15JXNUsN_vqxQG_izMR4h-G5N1Qu1w/edit?usp=sharing) / [Supplementary](https://www.google.com/url?q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FWACV2022%2Fsupplemental%2FKhindkar_To_Miss-Attend_Is_WACV_2022_supplemental.pdf&sa=D&sntz=1&usg=AOvVaw2s5mbu0QqXXpS6n0-ao8Qf)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-bdd100k-to)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-bdd100k-to?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-pascal-voc)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-pascal-voc?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-sim10k-to-3)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-sim10k-to-3?p=to-miss-attend-is-to-misalign-residual-self)
 
 
 ## Setup Introduction
