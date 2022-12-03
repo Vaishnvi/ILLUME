@@ -15,6 +15,13 @@ Our approach significantly reduces the domain distance with the improved feature
 ![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
 
 
+## Badges
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-bdd100k-to)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-bdd100k-to?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-pascal-voc)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-pascal-voc?p=to-miss-attend-is-to-misalign-residual-self)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-sim10k-to-3)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-sim10k-to-3?p=to-miss-attend-is-to-misalign-residual-self)
+
 
 
 ## Setup Introduction
