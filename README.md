@@ -1,8 +1,10 @@
 # ILLUME
 
-## To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors [WACV 2022] 
+## To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors.
 
-### [Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf) / [Talk](https://youtu.be/sbUWeQJ3lys) / [Poster](https://docs.google.com/presentation/d/1S0Ei25aynJETC15JXNUsN_vqxQG_izMR4h-G5N1Qu1w/edit?usp=sharing) / [Supplementary](https://www.google.com/url?q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FWACV2022%2Fsupplemental%2FKhindkar_To_Miss-Attend_Is_WACV_2022_supplemental.pdf&sa=D&sntz=1&usg=AOvVaw2s5mbu0QqXXpS6n0-ao8Qf)
+###  Winter Conference on Applications of Computer Vision (WACV) 2022.
+
+[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf) / [Talk](https://youtu.be/sbUWeQJ3lys) / [Poster](https://docs.google.com/presentation/d/1S0Ei25aynJETC15JXNUsN_vqxQG_izMR4h-G5N1Qu1w/edit?usp=sharing) / [Supplementary](https://www.google.com/url?q=https%3A%2F%2Fopenaccess.thecvf.com%2Fcontent%2FWACV2022%2Fsupplemental%2FKhindkar_To_Miss-Attend_Is_WACV_2022_supplemental.pdf&sa=D&sntz=1&usg=AOvVaw2s5mbu0QqXXpS6n0-ao8Qf)
 
 Adaptive object detection remains challenging due to visual diversity in background scenes and intricate combinations of objects. Motivated by structural importance, we aim to attend prominent instance-specific regions, overcoming the feature misalignment issue. 
 
