@@ -8,12 +8,11 @@
 
 Adaptive object detection remains challenging due to visual diversity in background scenes and intricate combinations of objects. Motivated by structural importance, we aim to attend prominent instance-specific regions, overcoming the feature misalignment issue. 
 
-![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
-
 We propose a novel resIduaL seLf-attentive featUre alignMEnt ( ILLUME ) method for adaptive object detection. ILLUME comprises Self-Attention Feature Map (SAFM) module that enhances structural attention to object-related regions and thereby generates domain invariant features.
 
 Our approach significantly reduces the domain distance with the improved feature alignment of the instances.
 
+![Visualisation_analysis](https://github.com/Vaishnvi/ILLUME/blob/master/imgs/vis_updted_mis_al_er.png)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-bdd100k-to)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-bdd100k-to?p=to-miss-attend-is-to-misalign-residual-self)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=to-miss-attend-is-to-misalign-residual-self)
