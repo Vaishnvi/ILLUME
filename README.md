@@ -97,6 +97,9 @@ python trainval_net_ILLUME.py --cuda --net vgg16 --dataset cityscape --dataset_t
 python test_net_ILLUME.py --cuda --net vgg16 --dataset foggy_cityscape --load_name models/vgg16/cityscape/*.pth
 ```
 
+## Badge
+
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-bdd100k-to)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-bdd100k-to?p=to-miss-attend-is-to-misalign-residual-self)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-cityscapes-1)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-cityscapes-1?p=to-miss-attend-is-to-misalign-residual-self)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/to-miss-attend-is-to-misalign-residual-self/unsupervised-domain-adaptation-on-pascal-voc)](https://paperswithcode.com/sota/unsupervised-domain-adaptation-on-pascal-voc?p=to-miss-attend-is-to-misalign-residual-self)
